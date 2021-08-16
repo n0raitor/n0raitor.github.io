@@ -1,1 +1,0 @@
-# normannator.github.io
