@@ -1,18 +1,11 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I am Normannator. I am a Internet-Security Master Student. I am fascinated by ArchLinux and love creating my personal OS build up from the ground. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Feel Free to check out my github page on [Normannator](https://github.com/normannator)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you got any questions to ask or you just want to talk about tech-stuff, feel free to contact me via E-Mail: contact@normannator.de

@@ -1,14 +1,12 @@
 title: Normannator - Homepage
 email: contact@normannator.de
 description: >-
-  This is the Homepage of Normannator, containing awesome ArchLinux Tutorials
+  Welcome to the Homepage of Normannator, containing awesome ArchLinux Tutorials
   and other Tech-Content.
 baseurl: ''
 url: ''
-twitter_username: jekyllrb
+twitter_username: ''
 github_username: normannator
 theme: minima
-remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
-  - ekyll-remote-theme
