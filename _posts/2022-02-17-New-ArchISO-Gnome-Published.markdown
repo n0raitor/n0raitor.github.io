@@ -7,7 +7,7 @@ background: '/img/posts/patrick-lindenberg-1iVKwElWrPA-unsplash.jpg'
 ---
 
 # ARCH ISO 2022-02-17 is now Available
-The Updated Arch ISO with the integrated GNOME Desktop is now available on my SourceForge Page. Feel free to Download the ISO using the Button below. (Or Use this [Link](https://sourceforge.net/projects/archlinux-live-iso-prebuild/files/latest/download)
+The Updated Arch ISO with the integrated GNOME Desktop is now available on my SourceForge Page. Feel free to Download the ISO using the Button below. (Or Use this [Link](https://sourceforge.net/projects/archlinux-live-iso-prebuild/files/latest/download))
 
 [![Download ArchLinux Live ISO Prebuild](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/archlinux-live-iso-prebuild/files/latest/download)
 
