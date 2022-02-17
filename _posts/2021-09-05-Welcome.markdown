@@ -1,13 +1,4 @@
 ---
-title: Welcome To Normannator.de
-layout: post
-date: '2021-09-05 18:30:46'
-categories:
-- update
-- welcome
----
-
----
 layout: post
 title: "Welcome To Normannator.de"
 subtitle: "Welcome to the Homepage of N0Raitor (older: Normannator)"
