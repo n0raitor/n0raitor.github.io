@@ -7,6 +7,14 @@ categories:
 - welcome
 ---
 
+---
+layout: post
+title: "Welcome To Normannator.de"
+subtitle: "Welcome to the Homepage of N0Raitor (older: Normannator)"
+date: 2021-09-05 13:00:00 -0400
+background: '/img/posts/tim-mossholder-8R-mXppeakM-unsplash.jpg'
+---
+
 # Welcome
 Hi, this is N0Raitor. I am a Internet-Security Master Student and I am fascinated by ArchLinux and love creating my personal OS build up from the ground.
 
@@ -15,3 +23,5 @@ I will use this Blog to keep you up to date on my installation guides for ArchLi
 Feel Free to check out my [GitHub Profile](https://github.com/normannator)
 
 If you got any questions to ask or you just want to talk about tech-stuff, feel free to contact me via E-Mail: contact@normannator.de
+
+Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/welcome?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
