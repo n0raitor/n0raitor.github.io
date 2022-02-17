@@ -2,7 +2,7 @@
 layout: post
 title: "New Arch Guide is coming soon"
 subtitle: "I will recreate my Arch Guide soon."
-date: 2020-01-26 23:45:13 -0400
+date: 2022-02-16 20:00:00 -0400
 background: '/img/posts/ian-schneider-PAykYb-8Er8-unsplash.jpg'
 ---
 
