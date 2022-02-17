@@ -14,5 +14,6 @@ There will be a Post in a few Weeks with the Updated Guide. Further Updates will
 Take Care and stay safe!
 N0Raitor
 
+P.S. Feel free to check out the old Guide [here](https://normannator.de/archlinux)
 
 Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/new?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
