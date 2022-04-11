@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome To Normannator.de"
 subtitle: "Welcome to the Homepage of N0Raitor (older: Normannator)"
-date: 2021-09-05 13:00:00 -0400
+date: 2021-09-05 13:00:00 +0200
 background: '/img/posts/tim-mossholder-8R-mXppeakM-unsplash.jpg'
 ---
 
