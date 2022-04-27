@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEW ArchISO Gnome is now Available"
+title: "NEW ArchISO is now Available - Minimal Edition"
 subtitle: "The newest Version of my ArchISO with the Gnome Desktop is now available on SourceForge."
 date: 2022-04-27 23:30:00 +0200
 background: '/img/posts/patrick-lindenberg-1iVKwElWrPA-unsplash.jpg'
