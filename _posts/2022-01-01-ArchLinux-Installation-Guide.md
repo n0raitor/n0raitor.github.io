@@ -10,7 +10,7 @@ I created a Arch Linux Installation Guide some time ago. I keep updating this Gu
 
 I work on converting this guide to this page, but it may take some time.
 
-For now, feel free to follow my guide on [here](http://normannator.de/archlinux)
+For now, feel free to follow my guide on [here](http://n0raitor.com/archlinux)
 
 
 Photo by [Bailey Zindel](https://unsplash.com/@baileyzindel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/linux?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

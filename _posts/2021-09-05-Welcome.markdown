@@ -11,8 +11,8 @@ Hi, this is N0Raitor. I am a Internet-Security Master Student and I am fascinate
 
 I will use this Blog to keep you up to date on my installation guides for ArchLinux and for my GitHub Repo Projects.
 
-Feel Free to check out my [GitHub Profile](https://github.com/normannator)
+Feel Free to check out my [GitHub Profile](https://github.com/n0raitor)
 
-If you got any questions to ask or you just want to talk about tech-stuff, feel free to contact me via E-Mail: contact@normannator.de
+If you got any questions to ask or you just want to talk about tech-stuff, feel free to contact me via E-Mail: support@n0raitor.com
 
 Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/welcome?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
